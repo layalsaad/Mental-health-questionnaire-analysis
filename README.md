@@ -3,7 +3,11 @@
 This project explores the mental health status of children aged 8–10 using questionnaire data collected in conflict-affected areas. 
 The goal is to analyze psychological indicators, assess the effects of trauma, and evaluate the need for psychosocial support using statistical and machine learning techniques.
 
+---
 
+## 📂 Project Structure
+
+```bash
 Mental health questionnaire analysis/
 │
 ├── Data gathering/                  # Raw and preprocessed Excel data from Google Forms
